@@ -1,0 +1,21 @@
+# .NET build artifacts
+bin/
+obj/
+
+# NuGet
+/packages/
+
+# JetBrains Rider / IntelliJ
+.idea/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
